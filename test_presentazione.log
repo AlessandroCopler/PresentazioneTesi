@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.29)  22 MAR 2016 15:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.29)  23 MAR 2016 10:07
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1443,9 +1443,9 @@ ecss1095.600pk> </home/meniy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.60
 /meniy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0600.600pk></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on test_presentazione.pdf (15 pages, 230343 bytes).
+Output written on test_presentazione.pdf (15 pages, 230695 bytes).
 PDF statistics:
- 995 PDF objects out of 1000 (max. 8388607)
+ 996 PDF objects out of 1000 (max. 8388607)
  741 compressed objects within 8 object streams
  46 named destinations out of 1000 (max. 500000)
  178 words of extra memory for PDF output out of 10000 (max. 10000000)
