@@ -36,7 +36,7 @@
 \institute[UniDiBergamo]{Università degli studi di Bergamo - Facolta di Ingegneria}
 %\logo{\includegraphics[width=3cm]{unibg.jpg}}
 
-\usetheme{Hannover}
+%\usetheme{Hannover}
 %\usecolortheme{spruce}
 %\usetheme{AnnArbor}
 %\useoutertheme[right]{sidebar}
@@ -51,6 +51,7 @@
 \newtheorem{svantaggi}{Svantaggi}
 \newtheorem{clonazione_full}{Clonazione Full}
 \newtheorem{clonazione_linked}{Clonazione Linked}
+\newtheorem{jenkins}{Jenkins offre:}
 \begin{document}
 \begin{frame}
 \maketitle
@@ -100,7 +101,7 @@ SaaS
 \column{0.5\textwidth}
 \begin{figure}[!h]
 	\begin{center}
-\includegraphics[width=3cm]{cloud.png}
+\includegraphics[width=4cm]{cloud2.png}
 \end{center}
 \end{figure}
 
@@ -137,6 +138,14 @@ Community
 \end{definizione}
 \end{frame}
 
+\begin{frame}
+\frametitle{DevStack vagrant virtualbox}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=10cm]{Vagrant.png}
+\end{center}
+\end{figure}
+\end{frame}
 
 \begin{frame}
 \frametitle{Il progetto Escudo-Cloud}
@@ -185,7 +194,7 @@ Individuare errori di integrazione il più presto possibile.
 \end{definizione}
 \begin{columns}
 \column{0.5\textwidth}
-\begin{vantaggi}
+\begin{jenkins}
 \begin{itemize}
 \item
 interfaccia utente user friendly
@@ -194,21 +203,15 @@ potente e estensibile con plugin
 \item
 comunità solida e numerosa
 \end{itemize}
-\end{vantaggi}
+\end{jenkins}
 \column{0.5\textwidth}
-\begin{svantaggi}
-\begin{itemize}
-\item
-a\\
-a
-\item
-a\\
-a
-\item
-a\\
-a
-\end{itemize}
-\end{svantaggi}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=4cm, height=4cm]{jenkinsCIA.jpg}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
 \end{columns}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -224,6 +227,24 @@ a
 %	\label{fig:pre_processo_sviluppo_validazione}
 \end{center}
 \end{figure}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Obiettivi}
+\subsection{Obiettivi}
+\begin{frame}
+implementare un sistema di ci in locale a basso costo e che migliori il feedback agi sviluppatori permetto un approccio incrementale 
+\begin{itemize}
+\item
+test delle modifiche effettuate in locale
+\item
+ridurre i tempi di attesa 
+\item
+sistema realizzabile anche in piccole realtà
+\end{itemize}
+
+
+
 \end{frame}
 
 
@@ -327,9 +348,7 @@ macchina clonata collegata
 
 \begin{frame}
 \frametitle{Configurazione multi progetti indipendenti}
-\begin{definizione}
-\alert{Artifact} bla bla
-\end{definizione}
+todo
 \end{frame}
 
 \section{Benchmark dei risultati}
@@ -337,17 +356,59 @@ macchina clonata collegata
 \subsection{Benchmark}
 \begin{frame}
 \frametitle{Benchmark dei tempi medi ottenuti}
-\begin{definizione}
- \alert{benchmark} bla bla
-\end{definizione}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=8cm, height=5cm]{benchmark_setup.png}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
 \end{frame}
+
+\begin{frame}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=8cm, height=5cm]{benchmark_test.jpg}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=8cm, height=5cm]{benchmark_tempo_totale.jpg}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
+\end{frame}
+
+
+
 
 \subsection{Trade-off}
 \begin{frame}
 \frametitle{Trade-off performance}
-\begin{definizione}
-\alert{trade-off} bla bla
-\end{definizione}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=8cm, height=5cm]{benchmark_finale.jpg}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Trade-off performance}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=8cm, height=5cm]{benchmark_memoria.png}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
 \end{frame}
 
 \section{Considerazioni finali e possibili sviluppi futuri}
@@ -361,4 +422,39 @@ due divisori positivi.
 \end{frame}
 \subsection{Sviluppi futuri}
 \subsection{Ringraziamenti}
+
+%\section{temp}
+%\begin{frame}
+%\begin{figure}[!h]
+%	\begin{center}
+%\includegraphics[width=10cm, height=5cm]{jenkins.png}
+%%	\caption{Processo di sviluppo e validazione}
+%%	\label{fig:pre_processo_sviluppo_validazione}
+%\end{center}
+%\end{figure}
+%\end{frame}
+%
+%\begin{frame}
+%\begin{columns}
+%\column{0.2\textwidth}
+%\frametitle{jenkins}
+%\begin{figure}[!h]
+%	\begin{center}
+%\includegraphics[width=4cm, height=4cm]{jenkins.png}
+%%	\caption{Processo di sviluppo e validazione}
+%%	\label{fig:pre_processo_sviluppo_validazione}
+%\end{center}
+%\end{figure}
+%
+%\column{0.8\textwidth}
+%\frametitle{jenkins}
+%\begin{figure}[!h]
+%	\begin{center}
+%\includegraphics[width=6cm, height=6cm]{conf2.png}
+%%	\caption{Processo di sviluppo e validazione}
+%%	\label{fig:pre_processo_sviluppo_validazione}
+%\end{center}
+%\end{figure}
+%\end{columns}
+%\end{frame}
 \end{document}
