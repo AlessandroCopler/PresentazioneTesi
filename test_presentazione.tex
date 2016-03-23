@@ -45,6 +45,12 @@
 \newtheorem{definizione}{Definizione}
 \theoremstyle{plain}
 \newtheorem{teorema}{Teorema}
+\newtheorem{obiettivo}{Obiettivo}
+\newtheorem{obiettivi}{Obiettivi}
+\newtheorem{vantaggi}{Vantaggi}
+\newtheorem{svantaggi}{Svantaggi}
+\newtheorem{clonazione_full}{Clonazione Full}
+\newtheorem{clonazione_linked}{Clonazione Linked}
 \begin{document}
 \begin{frame}
 \maketitle
@@ -138,7 +144,7 @@ Community
 \vspace*{1cm}
 \begin{columns}
 \column{0.8\textwidth}
-Obiettivi:
+\begin{obiettivi}
 \begin{itemize}
 \item
 tecniche e metodi per la gestione delle chiavi
@@ -147,6 +153,7 @@ protezione data-at-rest
 \item
 fornire un layer di protezione tra client e provider
 \end{itemize}
+\end{obiettivi}
 \column{0.2\textwidth}
 \begin{figure}[!h]
 	\begin{center}
@@ -160,16 +167,49 @@ fornire un layer di protezione tra client e provider
 \begin{frame}
 \frametitle{Cosa si intende per Continuous Integration?}
 \begin{definizione}
-Per \alert{Continuous Integration} si intende  bla bla bla
+La \alert{Continuous Integration} una pratica di sviluppo software dove i membri di un team \alert{integrano} il proprio lavoro \alert{frequentemente}.
 \end{definizione}
+\vspace*{0.5cm}
+Ogni integrazione deve essere \alert{verificata} da una build automatizzata e \alert{testata}.
+\begin{obiettivo}
+Individuare errori di integrazione il più presto possibile.
+\end{obiettivo}
+
 \end{frame}
 
 
 \begin{frame}
 \frametitle{Jenkins per la Continuous Integration}
 \begin{definizione}
-\alert{Jenkins} bla bla bla
+\alert{Jenkins} è uno strumento di Continuous Integration open source scritto in Java
 \end{definizione}
+\begin{columns}
+\column{0.5\textwidth}
+\begin{vantaggi}
+\begin{itemize}
+\item
+interfaccia utente user friendly
+\item
+potente e estensibile con plugin
+\item
+comunità solida e numerosa
+\end{itemize}
+\end{vantaggi}
+\column{0.5\textwidth}
+\begin{svantaggi}
+\begin{itemize}
+\item
+a\\
+a
+\item
+a\\
+a
+\item
+a\\
+a
+\end{itemize}
+\end{svantaggi}
+\end{columns}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -177,37 +217,118 @@ Per \alert{Continuous Integration} si intende  bla bla bla
 \subsection{Processo di validazione della Fondazione OpenStack}
 \begin{frame}
 \frametitle{Come si contribuisce OpenStack}
-\begin{definizione}
- \alert{contribuire} 
-\end{definizione}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=10cm, height=7cm]{sviluppo.png}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
 \end{frame}
 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Configurazioni studiate}
+\subsection{Come varia il processo}
+\begin{frame}
+\frametitle{Come varia il processo}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=10cm, height=7cm]{sviluppo_ci.png}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Come varia il processo}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=10cm, height=6cm]{schema_alto_livello.png}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
+\end{frame}
+
+
+
 \subsection{Prima configurazione con singolo progetto}
 \begin{frame}
 \frametitle{Configurazione singolo progetto}
-\begin{definizione}
-Un \alert{singolo progetto}
-\end{definizione}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=10cm, height=6cm]{conf1.png}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
 \end{frame}
 
 \subsection{Seconda configurazione con multi progetti}
 \begin{frame}
 \frametitle{Configurazione multi progetto}
-\begin{definizione}
-Un \alert{clonazione full} 
-\end{definizione}
-\begin{definizione}
-Un \alert{clonazione linked} 
-\end{definizione}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=10cm, height=7cm]{conf2.png}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Configurazione multi progetto}
+\begin{columns}
+\column{0.5\textwidth}
+\begin{clonazione_full}
+\begin{itemize}
+\item
+copia totale della macchina virtuale
+\item
+\textcolor{green}{macchina clonata indipendente}
+\item
+spazio occupato doppio
+\item
+tempo clonazione considerevole
+\end{itemize}
+\end{clonazione_full}
+\column{0.5\textwidth}
+\begin{clonazione_linked}
+\begin{itemize}
+\item
+copia parziale legata alla macchina originale
+\item
+macchina clonata collegata 
+\item
+\textcolor{green}{spazio occupato scalabile}
+\item
+\textcolor{green}{tempo clonazione irrilevante}
+\end{itemize}
+\end{clonazione_linked}
+\end{columns}
 \end{frame}
 
 \subsection{Terza configurazione multi progetti indipendenti}
 \begin{frame}
 \frametitle{Configurazione multi progetti indipendenti}
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=10cm, height=7cm]{conf3.png}
+%	\caption{Processo di sviluppo e validazione}
+%	\label{fig:pre_processo_sviluppo_validazione}
+\end{center}
+\end{figure}
+\end{frame}
+
+
+
+\begin{frame}
+\frametitle{Configurazione multi progetti indipendenti}
 \begin{definizione}
-Un \alert{multi progetti indipendenti} è un intero $>1$ che ha esattamente
-due divisori positivi.
+\alert{Artifact} bla bla
 \end{definizione}
 \end{frame}
 

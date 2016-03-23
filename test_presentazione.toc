@@ -8,11 +8,12 @@
 \beamer@sectionintoc {2}{Stato dell'arte}{9}{0}{2}
 \beamer@subsectionintoc {2}{1}{Processo di validazione della Fondazione OpenStack}{9}{0}{2}
 \beamer@sectionintoc {3}{Configurazioni studiate}{10}{0}{3}
-\beamer@subsectionintoc {3}{1}{Prima configurazione con singolo progetto}{10}{0}{3}
-\beamer@subsectionintoc {3}{2}{Seconda configurazione con multi progetti}{11}{0}{3}
-\beamer@subsectionintoc {3}{3}{Terza configurazione multi progetti indipendenti}{12}{0}{3}
-\beamer@sectionintoc {4}{Benchmark dei risultati}{13}{0}{4}
-\beamer@subsectionintoc {4}{1}{Benchmark}{13}{0}{4}
-\beamer@subsectionintoc {4}{2}{Trade-off}{14}{0}{4}
-\beamer@sectionintoc {5}{Considerazioni finali e possibili sviluppi futuri}{15}{0}{5}
-\beamer@subsectionintoc {5}{1}{Commenti finali}{15}{0}{5}
+\beamer@subsectionintoc {3}{1}{Come varia il processo}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Prima configurazione con singolo progetto}{12}{0}{3}
+\beamer@subsectionintoc {3}{3}{Seconda configurazione con multi progetti}{13}{0}{3}
+\beamer@subsectionintoc {3}{4}{Terza configurazione multi progetti indipendenti}{15}{0}{3}
+\beamer@sectionintoc {4}{Benchmark dei risultati}{17}{0}{4}
+\beamer@subsectionintoc {4}{1}{Benchmark}{17}{0}{4}
+\beamer@subsectionintoc {4}{2}{Trade-off}{18}{0}{4}
+\beamer@sectionintoc {5}{Considerazioni finali e possibili sviluppi futuri}{19}{0}{5}
+\beamer@subsectionintoc {5}{1}{Commenti finali}{19}{0}{5}

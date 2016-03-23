@@ -5,11 +5,12 @@
 \BOOKMARK [2][]{Outline0.2}{Stato dell'arte}{}% 5
 \BOOKMARK [3][]{Outline0.2.1.9}{Processo di validazione della Fondazione OpenStack}{Outline0.2}% 6
 \BOOKMARK [2][]{Outline0.3}{Configurazioni studiate}{}% 7
-\BOOKMARK [3][]{Outline0.3.1.10}{Prima configurazione con singolo progetto}{Outline0.3}% 8
-\BOOKMARK [3][]{Outline0.3.2.11}{Seconda configurazione con multi progetti}{Outline0.3}% 9
-\BOOKMARK [3][]{Outline0.3.3.12}{Terza configurazione multi progetti indipendenti}{Outline0.3}% 10
-\BOOKMARK [2][]{Outline0.4}{Benchmark dei risultati}{}% 11
-\BOOKMARK [3][]{Outline0.4.1.13}{Benchmark}{Outline0.4}% 12
-\BOOKMARK [3][]{Outline0.4.2.14}{Trade-off}{Outline0.4}% 13
-\BOOKMARK [2][]{Outline0.5}{Considerazioni finali e possibili sviluppi futuri}{}% 14
-\BOOKMARK [3][]{Outline0.5.1.15}{Commenti finali}{Outline0.5}% 15
+\BOOKMARK [3][]{Outline0.3.1.10}{Come varia il processo}{Outline0.3}% 8
+\BOOKMARK [3][]{Outline0.3.2.12}{Prima configurazione con singolo progetto}{Outline0.3}% 9
+\BOOKMARK [3][]{Outline0.3.3.13}{Seconda configurazione con multi progetti}{Outline0.3}% 10
+\BOOKMARK [3][]{Outline0.3.4.15}{Terza configurazione multi progetti indipendenti}{Outline0.3}% 11
+\BOOKMARK [2][]{Outline0.4}{Benchmark dei risultati}{}% 12
+\BOOKMARK [3][]{Outline0.4.1.17}{Benchmark}{Outline0.4}% 13
+\BOOKMARK [3][]{Outline0.4.2.18}{Trade-off}{Outline0.4}% 14
+\BOOKMARK [2][]{Outline0.5}{Considerazioni finali e possibili sviluppi futuri}{}% 15
+\BOOKMARK [3][]{Outline0.5.1.19}{Commenti finali}{Outline0.5}% 16
