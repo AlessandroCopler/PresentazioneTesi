@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.29)  23 MAR 2016 18:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.29)  23 MAR 2016 21:54
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -923,16 +923,122 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 33.
 
-\c@definizione=\count158
-\c@teorema=\count159
-\c@obiettivo=\count160
-\c@obiettivi=\count161
-\c@vantaggi=\count162
-\c@svantaggi=\count163
-\c@clonazione_full=\count164
-\c@clonazione_linked=\count165
-\c@jenkins=\count166
-(./test_presentazione.aux)
+(./beamerthememetropolis.sty
+Package: beamerthememetropolis 2016/03/14 v1.1 Metropolis Beamer theme
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2011/06/02 v2.1 LaTeX package options with pgfkeys
+
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+\pgfopts@list@add@a@toks=\toks42
+\pgfopts@list@add@b@toks=\toks43
+)
+(./beamerinnerthememetropolis.sty
+Package: beamerinnerthememetropolis 2016/03/14 Metropolis inner theme
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count158
+\calc@Bcount=\count159
+\calc@Adimen=\dimen186
+\calc@Bdimen=\dimen187
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count160
+\calc@Cskip=\skip59
+)
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box53
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen188
+\pgf@nodesepend=\dimen189
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen190
+\pgffor@skip=\dimen191
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count161
+\pgfplotmarksize=\dimen192
+)
+\tikz@lastx=\dimen193
+\tikz@lasty=\dimen194
+\tikz@lastxsaved=\dimen195
+\tikz@lastysaved=\dimen196
+\tikzleveldistance=\dimen197
+\tikzsiblingdistance=\dimen198
+\tikz@figbox=\box54
+\tikz@tempbox=\box55
+\tikztreelevel=\count162
+\tikznumberofchildren=\count163
+\tikznumberofcurrentchild=\count164
+\tikz@fig@count=\count165
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count166
+\pgfmatrixcurrentcolumn=\count167
+\pgf@matrix@numberofcolumns=\count168
+)
+\tikz@expandcount=\count169
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+\metropolis@progressonsectionpage=\skip60
+\metropolis@blocksep=\skip61
+\metropolis@blockadjust=\skip62
+\metropolis@parskip=\skip63
+) (./beamerouterthememetropolis.sty
+Package: beamerouterthememetropolis 2016/03/14 Metropolis outer theme
+\metropolis@frametitle@padding=\skip64
+\metropolis@progressinheadfoot=\skip65
+)
+(./beamercolorthememetropolis.sty
+Package: beamercolorthememetropolis 2016/03/14 Metropolis color theme
+) (./beamerfontthememetropolis.sty
+Package: beamerfontthememetropolis 2016/03/14 Metropolis font theme
+
+
+Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaL
+aTeX to use the Fira fonts on input line 91.
+
+))
+\c@definizione=\count170
+\c@teorema=\count171
+\c@obiettivo=\count172
+\c@obiettivi=\count173
+\c@vantaggi=\count174
+\c@svantaggi=\count175
+\c@clonazione_full=\count176
+\c@clonazione_linked=\count177
+\c@jenkins=\count178
+ (./test_presentazione.aux)
 \openout1 = `test_presentazione.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
@@ -986,17 +1092,17 @@ LaTeX Font Info:    ... okay on input line 55.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count167
-\scratchdimen=\dimen186
-\scratchbox=\box53
-\nofMPsegments=\count168
-\nofMParguments=\count169
-\everyMPshowfont=\toks42
-\MPscratchCnt=\count170
-\MPscratchDim=\dimen187
-\MPnumerator=\count171
-\makeMPintoPDFobject=\count172
-\everyMPtoPDFconversion=\toks43
+\scratchcounter=\count179
+\scratchdimen=\dimen199
+\scratchbox=\box56
+\nofMPsegments=\count180
+\nofMParguments=\count181
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen200
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
+\everyMPtoPDFconversion=\toks47
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1013,7 +1119,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box54
+\AtBeginShipoutBox=\box57
 Package hyperref Info: Link coloring OFF on input line 55.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1022,7 +1128,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count173
+\c@section@level=\count185
 )
 LaTeX Info: Redefining \ref on input line 55.
 LaTeX Info: Redefining \pageref on input line 55.
@@ -1108,6 +1214,9 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 58.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
+Overfull \vbox (44.54378pt too high) detected at line 58
+ []
+
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 58.
@@ -1115,161 +1224,186 @@ LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(./test_presentazione.toc) [2
+(./test_presentazione.toc)
+Overfull \vbox (123.14053pt too high) detected at line 64
+ []
+
+[2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 110.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 66.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 110.
+LaTeX Font Info:    Try loading font information for U+msb on input line 66.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<cloud2.png, id=171, 326.21875pt x 262.9825pt>
+) [3
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 110
+.
+LaTeX Font Info:    No file OMScmss.fd. on input line 110.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 110.
+
+<cloud2.png, id=136, 326.21875pt x 262.9825pt>
 File: cloud2.png Graphic file (type png)
  <use cloud2.png>
 Package pdftex.def Info: cloud2.png used on input line 110.
 (pdftex.def)             Requested size: 113.81102pt x 91.74829pt.
- [3
+ [4
 
- <./cloud2.png>] [4
+ <./cloud2.png>] [5
 
-] <openstack.png, id=226, 433.62pt x 433.62pt>
+] <openstack.png, id=151, 433.62pt x 433.62pt>
 File: openstack.png Graphic file (type png)
  <use openstack.png>
 Package pdftex.def Info: openstack.png used on input line 139.
 (pdftex.def)             Requested size: 85.35826pt x 85.35284pt.
 
-[5
+[6
 
- <./openstack.png>] <Vagrant.png, id=254, 903.375pt x 351.3125pt>
+ <./openstack.png>] <Vagrant.png, id=159, 903.375pt x 351.3125pt>
 File: Vagrant.png Graphic file (type png)
 
 <use Vagrant.png>
 Package pdftex.def Info: Vagrant.png used on input line 148.
 (pdftex.def)             Requested size: 284.52756pt x 110.64793pt.
- [6
+ [7
 
  <./Vagrant.png>]
-<ESCUDO-CLOUD.png, id=281, 182.1204pt x 249.0906pt>
+<ESCUDO-CLOUD.png, id=167, 182.1204pt x 249.0906pt>
 File: ESCUDO-CLOUD.png Graphic file (type png)
  <use ESCUDO-CLOUD.png>
 Package pdftex.def Info: ESCUDO-CLOUD.png used on input line 173.
 (pdftex.def)             Requested size: 42.67912pt x 58.37285pt.
 
-[7
+[8
 
- <./ESCUDO-CLOUD.png>] [8
+ <./ESCUDO-CLOUD.png>] [9
 
-] <jenkinsCIA.jpg, id=334, 200.75pt x 200.75pt>
+] <jenkinsCIA.jpg, id=180, 200.75pt x 200.75pt>
 File: jenkinsCIA.jpg Graphic file (type jpg)
 
 <use jenkinsCIA.jpg>
 Package pdftex.def Info: jenkinsCIA.jpg used on input line 216.
 (pdftex.def)             Requested size: 113.81297pt x 113.81297pt.
- [9
+ [10
 
- <./jenkinsCIA.jpg>]
-<sviluppo.png, id=359, 954.56625pt x 503.8825pt>
+ <./jenkinsCIA.jpg>] [11
+
+]
+<sviluppo.png, id=190, 954.56625pt x 503.8825pt>
 File: sviluppo.png Graphic file (type png)
  <use sviluppo.png>
 Package pdftex.def Info: sviluppo.png used on input line 230.
 (pdftex.def)             Requested size: 284.52226pt x 199.16595pt.
- [10
+ [12
 
- <./sviluppo.png>] [11
+ <./sviluppo.png>] [13
 
-] <sviluppo_ci.png, id=409, 1071.00125pt x 503.8825pt>
+] [14
+
+] [15
+
+] <sviluppo_ci.png, id=211, 1071.00125pt x 503.8825pt>
 File: sviluppo_ci.png Graphic file (type png)
 
 <use sviluppo_ci.png>
 Package pdftex.def Info: sviluppo_ci.png used on input line 264.
 (pdftex.def)             Requested size: 284.53304pt x 199.16595pt.
- [12
+ [16
 
  <./sviluppo_ci.png>]
-<schema_alto_livello.png, id=436, 1058.95625pt x 453.695pt>
+<schema_alto_livello.png, id=218, 1058.95625pt x 453.695pt>
 File: schema_alto_livello.png Graphic file (type png)
 
 <use schema_alto_livello.png>
 Package pdftex.def Info: schema_alto_livello.png used on input line 275.
 (pdftex.def)             Requested size: 284.51624pt x 170.71672pt.
- [13
+ [17
 
  <./schema_alto_livello.png>]
-<conf1.png, id=462, 719.68875pt x 615.29875pt>
+<conf1.png, id=223, 719.68875pt x 615.29875pt>
 File: conf1.png Graphic file (type png)
  <use conf1.png>
 Package pdftex.def Info: conf1.png used on input line 289.
 (pdftex.def)             Requested size: 284.53201pt x 170.71455pt.
- [14
+ [18
 
- <./conf1.png>] <conf2.png, id=488, 884.30376pt x 679.53876pt>
+ <./conf1.png>] <conf2.png, id=230, 884.30376pt x 679.53876pt>
 File: conf2.png Graphic file (type png)
  <use conf2.png>
 Package pdftex.def Info: conf2.png used on input line 301.
 (pdftex.def)             Requested size: 284.52122pt x 199.16608pt.
- [15
+ [19
 
- <./conf2.png>] [16
+ <./conf2.png>] [20
 
-] <conf3.png, id=538, 899.36pt x 659.46375pt>
+] <conf3.png, id=242, 899.36pt x 659.46375pt>
 File: conf3.png Graphic file (type png)
  <use conf3.png>
 Package pdftex.def Info: conf3.png used on input line 345.
 (pdftex.def)             Requested size: 284.52126pt x 199.1689pt.
- [17
+ [21
 
- <./conf3.png>] [18
+ <./conf3.png>] [22
 
-] <benchmark_setup.png, id=588, 699.36281pt x 359.09157pt>
+] [23
+
+] <benchmark_setup.png, id=258, 699.36281pt x 359.09157pt>
 File: benchmark_setup.png Graphic file (type png)
 
 <use benchmark_setup.png>
 Package pdftex.def Info: benchmark_setup.png used on input line 366.
 (pdftex.def)             Requested size: 227.62103pt x 142.26425pt.
- [19
+ [24
 
  <./benchmark_setup.png (PNG copy)>]
-<benchmark_test.jpg, id=617, 775.89874pt x 340.27126pt>
+<benchmark_test.jpg, id=264, 775.89874pt x 340.27126pt>
 File: benchmark_test.jpg Graphic file (type jpg)
 
 <use benchmark_test.jpg>
 Package pdftex.def Info: benchmark_test.jpg used on input line 376.
 (pdftex.def)             Requested size: 227.62134pt x 142.26393pt.
- [20
+ [25
 
  <./benchmark_test.jpg>]
-<benchmark_tempo_totale.jpg, id=642, 642.4pt x 341.275pt>
+<benchmark_tempo_totale.jpg, id=271, 642.4pt x 341.275pt>
 File: benchmark_tempo_totale.jpg Graphic file (type jpg)
 
 <use benchmark_tempo_totale.jpg>
 Package pdftex.def Info: benchmark_tempo_totale.jpg used on input line 386.
 (pdftex.def)             Requested size: 227.6174pt x 142.26698pt.
- [21
+ [26
 
  <./benchmark_tempo_totale.jpg>]
-<benchmark_finale.jpg, id=667, 642.4pt x 341.275pt>
+<benchmark_finale.jpg, id=277, 642.4pt x 341.275pt>
 File: benchmark_finale.jpg Graphic file (type jpg)
  <use benchmark_finale.jpg>
 Package pdftex.def Info: benchmark_finale.jpg used on input line 401.
 (pdftex.def)             Requested size: 227.6174pt x 142.26698pt.
 
-[22
+[27
 
  <./benchmark_finale.jpg>]
-<benchmark_memoria.png, id=693, 455.45157pt x 255.95625pt>
+<benchmark_memoria.png, id=284, 455.45157pt x 255.95625pt>
 File: benchmark_memoria.png Graphic file (type png)
 
 <use benchmark_memoria.png>
 Package pdftex.def Info: benchmark_memoria.png used on input line 412.
 (pdftex.def)             Requested size: 227.62793pt x 142.26439pt.
- [23
+ [28
 
- <./benchmark_memoria.png (PNG copy)>] [24
+ <./benchmark_memoria.png (PNG copy)>] [29
+
+]
+[30
 
 ]
 \tf@nav=\write6
@@ -1283,39 +1417,84 @@ Package pdftex.def Info: benchmark_memoria.png used on input line 412.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 460.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 460.
-
-(./test_presentazione.aux)
+ (./test_presentazione.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 460.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 460.
-Package rerunfilecheck Info: File `test_presentazione.out' has not changed.
-(rerunfilecheck)             Checksum: 98FB76DC79AFF7BE9ACEA9B5966D0D5D;1249.
 
+
+Package rerunfilecheck Warning: File `test_presentazione.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `test_presentazione.out':
+(rerunfilecheck)             Before: 98FB76DC79AFF7BE9ACEA9B5966D0D5D;1249
+(rerunfilecheck)             After:  266F8073FCDE015B319556FDE00903D8;1249.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 460.
  ) 
 Here is how much of TeX's memory you used:
- 16985 strings out of 494976
- 304251 string characters out of 6180006
- 384309 words of memory out of 5000000
- 19705 multiletter control sequences out of 15000+600000
- 18542 words of font info for 49 fonts, out of 8000000 for 9000
+ 19574 strings out of 494976
+ 363241 string characters out of 6180006
+ 437642 words of memory out of 5000000
+ 22207 multiletter control sequences out of 15000+600000
+ 19071 words of font info for 47 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 49i,14n,53p,923b,790s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/meniy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1095.600pk> </home/m
-eniy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk> </home/meniy/.texmf
--var/fonts/pk/ljfour/jknappen/ec/ecss1200.600pk> </home/meniy/.texmf-var/fonts/
-pk/ljfour/jknappen/ec/ecss0800.600pk> </home/meniy/.texmf-var/fonts/pk/ljfour/j
-knappen/ec/ectt1095.600pk> </home/meniy/.texmf-var/fonts/pk/ljfour/jknappen/ec/
-ecss1095.600pk> </home/meniy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on test_presentazione.pdf (24 pages, 734779 bytes).
+ 61i,13n,79p,1740b,785s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Outline0.6.1.24} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.5.2.22} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.5.1.19} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.4.4.17} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.4.3.15} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.4.2.14} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.4.1.12} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.1.11} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.2.1.10} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.1.3.8} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.1.2.5} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.1.1.3} has been referenced but does not ex
+ist, replaced by a fixed one
+
+ </home/meniy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1095.600pk> </home/men
+iy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk> </home/meniy/.texmf-v
+ar/fonts/pk/ljfour/jknappen/ec/ecss1095.600pk> </home/meniy/.texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecsx1200.600pk> </home/meniy/.texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecss0800.600pk> </home/meniy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ec
+tt1000.600pk> </home/meniy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600p
+k> </home/meniy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on test_presentazione.pdf (30 pages, 729755 bytes).
 PDF statistics:
- 985 PDF objects out of 1000 (max. 8388607)
- 729 compressed objects within 8 object streams
- 67 named destinations out of 1000 (max. 500000)
+ 595 PDF objects out of 1000 (max. 8388607)
+ 295 compressed objects within 3 object streams
+ 85 named destinations out of 1000 (max. 500000)
  267 words of extra memory for PDF output out of 10000 (max. 10000000)
 

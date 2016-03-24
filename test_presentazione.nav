@@ -6,79 +6,91 @@
 \headcommand {\sectionentry {1}{Introduzione}{3}{Introduzione}{0}}
 \headcommand {\beamer@sectionpages {1}{2}}
 \headcommand {\beamer@subsectionpages {1}{2}}
-\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Cloud Computing}}\headcommand {\beamer@subsectionpages {3}{2}}
-\headcommand {\slideentry {1}{1}{1}{3/3}{Cloud Computing}{0}}
+\headcommand {\slideentry {1}{0}{3}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\slideentry {1}{1}{2}{4/4}{Cloud Computing}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{Cloud Computing}}\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\slideentry {1}{1}{1}{4/4}{Cloud Computing}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@subsectionentry {0}{1}{2}{5}{OpenStack}}\headcommand {\beamer@subsectionpages {3}{4}}
-\headcommand {\slideentry {1}{2}{1}{5/5}{OpenStack}{0}}
+\headcommand {\slideentry {1}{1}{2}{5/5}{Cloud Computing}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\slideentry {1}{2}{2}{6/6}{OpenStack}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{6}{OpenStack}}\headcommand {\beamer@subsectionpages {4}{5}}
+\headcommand {\slideentry {1}{2}{1}{6/6}{OpenStack}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\slideentry {1}{2}{3}{7/7}{OpenStack}{0}}
+\headcommand {\slideentry {1}{2}{2}{7/7}{OpenStack}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\beamer@subsectionentry {0}{1}{3}{8}{Continuous Integration con Jenkins}}\headcommand {\beamer@subsectionpages {5}{7}}
-\headcommand {\slideentry {1}{3}{1}{8/8}{Continuous Integration con Jenkins}{0}}
+\headcommand {\slideentry {1}{2}{3}{8/8}{OpenStack}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\slideentry {1}{3}{2}{9/9}{Continuous Integration con Jenkins}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{9}{Continuous Integration con Jenkins}}\headcommand {\beamer@subsectionpages {6}{8}}
+\headcommand {\slideentry {1}{3}{1}{9/9}{Continuous Integration con Jenkins}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\sectionentry {2}{Stato dell'arte}{10}{Stato dell'arte}{0}}
-\headcommand {\beamer@sectionpages {3}{9}}
-\headcommand {\beamer@subsectionpages {8}{9}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{10}{Processo di validazione della Fondazione OpenStack}}\headcommand {\beamer@subsectionpages {10}{9}}
-\headcommand {\slideentry {2}{1}{1}{10/10}{Processo di validazione della Fondazione OpenStack}{0}}
+\headcommand {\slideentry {1}{3}{2}{10/10}{Continuous Integration con Jenkins}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\sectionentry {3}{Obiettivi}{11}{Obiettivi}{0}}
-\headcommand {\beamer@sectionpages {10}{10}}
-\headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{11}{Obiettivi}}\headcommand {\beamer@subsectionpages {11}{10}}
-\headcommand {\slideentry {3}{1}{1}{11/11}{Obiettivi}{0}}
+\headcommand {\sectionentry {2}{Stato dell'arte}{11}{Stato dell'arte}{0}}
+\headcommand {\beamer@sectionpages {3}{10}}
+\headcommand {\beamer@subsectionpages {9}{10}}
+\headcommand {\slideentry {2}{0}{3}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\sectionentry {4}{Configurazioni studiate}{12}{Configurazioni studiate}{0}}
-\headcommand {\beamer@sectionpages {11}{11}}
-\headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{12}{Come varia il processo}}\headcommand {\beamer@subsectionpages {12}{11}}
-\headcommand {\slideentry {4}{1}{1}{12/12}{Come varia il processo}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{12}{Processo di validazione della Fondazione OpenStack}}\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\slideentry {2}{1}{1}{12/12}{Processo di validazione della Fondazione OpenStack}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {4}{1}{2}{13/13}{Come varia il processo}{0}}
+\headcommand {\sectionentry {3}{Obiettivi}{13}{Obiettivi}{0}}
+\headcommand {\beamer@sectionpages {11}{12}}
+\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\slideentry {3}{0}{2}{13/13}{}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{14}{Prima configurazione con singolo progetto}}\headcommand {\beamer@subsectionpages {12}{13}}
-\headcommand {\slideentry {4}{2}{1}{14/14}{Prima configurazione con singolo progetto}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{14}{Obiettivi}}\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\slideentry {3}{1}{1}{14/14}{Obiettivi}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@subsectionentry {0}{4}{3}{15}{Seconda configurazione con multi progetti}}\headcommand {\beamer@subsectionpages {14}{14}}
-\headcommand {\slideentry {4}{3}{1}{15/15}{Seconda configurazione con multi progetti}{0}}
+\headcommand {\sectionentry {4}{Configurazioni studiate}{15}{Configurazioni studiate}{0}}
+\headcommand {\beamer@sectionpages {13}{14}}
+\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\slideentry {4}{0}{2}{15/15}{}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\slideentry {4}{3}{2}{16/16}{Seconda configurazione con multi progetti}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{16}{Come varia il processo}}\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\slideentry {4}{1}{1}{16/16}{Come varia il processo}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@subsectionentry {0}{4}{4}{17}{Terza configurazione multi progetti indipendenti}}\headcommand {\beamer@subsectionpages {15}{16}}
-\headcommand {\slideentry {4}{4}{1}{17/17}{Terza configurazione multi progetti indipendenti}{0}}
+\headcommand {\slideentry {4}{1}{2}{17/17}{Come varia il processo}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\slideentry {4}{4}{2}{18/18}{Terza configurazione multi progetti indipendenti}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{18}{Prima configurazione con singolo progetto}}\headcommand {\beamer@subsectionpages {16}{17}}
+\headcommand {\slideentry {4}{2}{1}{18/18}{Prima configurazione con singolo progetto}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\sectionentry {5}{Benchmark dei risultati}{19}{Benchmark dei risultati}{0}}
-\headcommand {\beamer@sectionpages {12}{18}}
-\headcommand {\beamer@subsectionpages {17}{18}}
-\headcommand {\beamer@subsectionentry {0}{5}{1}{19}{Benchmark}}\headcommand {\beamer@subsectionpages {19}{18}}
-\headcommand {\slideentry {5}{1}{1}{19/19}{Benchmark}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{19}{Seconda configurazione con multi progetti}}\headcommand {\beamer@subsectionpages {18}{18}}
+\headcommand {\slideentry {4}{3}{1}{19/19}{Seconda configurazione con multi progetti}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\slideentry {5}{1}{2}{20/20}{Benchmark}{0}}
+\headcommand {\slideentry {4}{3}{2}{20/20}{Seconda configurazione con multi progetti}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {5}{1}{3}{21/21}{Benchmark}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{21}{Terza configurazione multi progetti indipendenti}}\headcommand {\beamer@subsectionpages {19}{20}}
+\headcommand {\slideentry {4}{4}{1}{21/21}{Terza configurazione multi progetti indipendenti}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@subsectionentry {0}{5}{2}{22}{Trade-off}}\headcommand {\beamer@subsectionpages {19}{21}}
-\headcommand {\slideentry {5}{2}{1}{22/22}{Trade-off}{0}}
+\headcommand {\slideentry {4}{4}{2}{22/22}{Terza configurazione multi progetti indipendenti}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\slideentry {5}{2}{2}{23/23}{Trade-off}{0}}
+\headcommand {\sectionentry {5}{Benchmark dei risultati}{23}{Benchmark dei risultati}{0}}
+\headcommand {\beamer@sectionpages {15}{22}}
+\headcommand {\beamer@subsectionpages {21}{22}}
+\headcommand {\slideentry {5}{0}{3}{23/23}{}{0}}
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\sectionentry {6}{Considerazioni finali e possibili sviluppi futuri}{24}{Considerazioni finali e possibili sviluppi futuri}{0}}
-\headcommand {\beamer@sectionpages {19}{23}}
-\headcommand {\beamer@subsectionpages {22}{23}}
-\headcommand {\beamer@subsectionentry {0}{6}{1}{24}{Commenti finali}}\headcommand {\beamer@subsectionpages {24}{23}}
-\headcommand {\slideentry {6}{1}{1}{24/24}{Commenti finali}{0}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{24}{Benchmark}}\headcommand {\beamer@subsectionpages {23}{23}}
+\headcommand {\slideentry {5}{1}{1}{24/24}{Benchmark}{0}}
 \headcommand {\beamer@framepages {24}{24}}
-\headcommand {\beamer@partpages {1}{24}}
-\headcommand {\beamer@subsectionpages {25}{24}}
-\headcommand {\beamer@sectionpages {24}{24}}
-\headcommand {\beamer@documentpages {24}}
+\headcommand {\slideentry {5}{1}{2}{25/25}{Benchmark}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {5}{1}{3}{26/26}{Benchmark}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{27}{Trade-off}}\headcommand {\beamer@subsectionpages {24}{26}}
+\headcommand {\slideentry {5}{2}{1}{27/27}{Trade-off}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\slideentry {5}{2}{2}{28/28}{Trade-off}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\sectionentry {6}{Considerazioni finali e possibili sviluppi futuri}{29}{Considerazioni finali e possibili sviluppi futuri}{0}}
+\headcommand {\beamer@sectionpages {23}{28}}
+\headcommand {\beamer@subsectionpages {27}{28}}
+\headcommand {\slideentry {6}{0}{3}{29/29}{}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{30}{Commenti finali}}\headcommand {\beamer@subsectionpages {29}{29}}
+\headcommand {\slideentry {6}{1}{1}{30/30}{Commenti finali}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\beamer@partpages {1}{30}}
+\headcommand {\beamer@subsectionpages {31}{30}}
+\headcommand {\beamer@sectionpages {29}{30}}
+\headcommand {\beamer@documentpages {30}}
 \headcommand {\def \inserttotalframenumber {24}}
